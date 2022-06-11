@@ -1,4 +1,4 @@
-- 👋 Hi, I am alfa-mike
+- 👋 Hi, I am ankit mehra
 - I have done courses on - Data Structure and Algorithm , Artificial Intelligence, Database Management System, Algorithm Design and Analysis, Computer Networks.
 - mail me @ : mehraankit100@gmail.com
 - I love playing and watching Football.
