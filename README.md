@@ -1,6 +1,6 @@
-👋 Hi, I am ankit mehra
-I have done courses on - Data Structure and Algorithm , Artificial Intelligence, Database Management System, Algorithm Design and Analysis, Computer Networks.
-@ - mehraankit100@gmail.com
+- 👋 Hi, I am ankit mehra.
+- I have done courses on - Data Structure and Algorithm , Artificial Intelligence, Database Management System, Algorithm Design and Analysis, Computer Networks.
+- @ - mehraankit100@gmail.com
 
 
 <!---
